@@ -1,1 +1,1 @@
-[Resume ](https://nancyjayaraj.github.io/Web-Project/)
+https://nancyjayaraj.github.io/Web-Project/
